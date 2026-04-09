@@ -1,6 +1,8 @@
 # 🚀 Portafolio de Proyectos | Amílcar Carrillo
 
-Bienvenido a mi repositorio central. Aquí puedes explorar mis soluciones en **Business Intelligence** y **Data Engineering**.¡Hola! Soy Amílcar Carrillo | BI Analyst & Data Engineer 🚀
+Bienvenido a mi repositorio central. Aquí puedes explorar mis soluciones en **Business Intelligence** y **Data Engineering**.
+
+¡Hola! Soy Amílcar Carrillo | BI Analyst & Data Engineer 🚀
 
 Soy Licenciado en Ciencia de Datos para Negocios con enfoque en la optimización de procesos y generación de insights estratégicos. Mi experiencia se centra en transformar datos complejos en soluciones de negocio automatizadas.
 
