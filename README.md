@@ -19,7 +19,7 @@ Especializado en el sector automotriz y financiero, implementando sistemas de co
 
 ## 📂 Índice de Proyectos Destacados
 
-### 1. [Análisis de Tendencias de YouTube (Sterling & Draper)](https://github.com/Gambitami/TrendsAnalysis-SterlingDraper)
+### 1. [Análisis de Tendencias de YouTube (Sterling & Draper)](https://github.com/Gambitami/Analisis_Ventas_Tableau)
 * [cite_start]**Contexto:** Transición de extracción manual a un modelo de BI de autoservicio para la agencia Sterling & Draper[cite: 87].
 * [cite_start]**Metodología:** Extracción de reportes regionales, limpieza de datos y diseño de dashboards interactivos para detectar patrones de consumo[cite: 89].
 * [cite_start]**Tecnología:** Tableau Desktop, Tableau Public[cite: 3].
