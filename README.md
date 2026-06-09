@@ -19,20 +19,25 @@ Especializado en el sector automotriz y financiero, implementando sistemas de co
 
 ## 📂 Índice de Proyectos Destacados
 
-### 1. [Análisis de Tendencias de YouTube (Sterling & Draper)](https://github.com/Gambitami/Analisis_Ventas_Tableau)
+### 1. ✈️ [Data Lakehouse: Monitor de Tráfico Aéreo (AWS & Power BI)](https://github.com/Gambitami/Data-Lakehouse-AWS-PowerBI-Vuelos)
+* **Descripción:** Pipeline automatizado End-to-End para la ingesta, procesamiento y análisis de telemetría de vuelos comerciales en tiempo real sobre las sedes mundialistas de México 2026.
+* **Tech Stack:** `Python (boto3)` | `Amazon S3` | `AWS Glue (ETL)` | `Amazon Athena (SQL)` | `Power BI`
+* **Logro Clave:** Implementación de una arquitectura híbrida serverless, optimización de almacenamiento crudo (JSON) a columnar (Parquet) y documentación analítica de calidad del dato (Data Quality).
+
+### 2. [Análisis de Tendencias de YouTube (Sterling & Draper)](https://github.com/Gambitami/Analisis_Ventas_Tableau)
 * [cite_start]**Contexto:** Transición de extracción manual a un modelo de BI de autoservicio para la agencia Sterling & Draper[cite: 87].
 * [cite_start]**Metodología:** Extracción de reportes regionales, limpieza de datos y diseño de dashboards interactivos para detectar patrones de consumo[cite: 89].
 * [cite_start]**Tecnología:** Tableau Desktop, Tableau Public[cite: 3].
 * [cite_start]**Impacto:** Análisis comparativo de 5 regiones clave para la planificación de mercadotecnia[cite: 42, 43, 88].
 * [cite_start]**Resultados:** Identificación de las categorías **Entertainment** y **Music** como dominantes globales y detección de nichos específicos por país (ej. **Comedy** en EE. UU.)[cite: 82, 84].
 
-### 2. [Análisis de Datos Zuber](https://github.com/Gambitami/Zuber-Data-Engineering-Analysis)
+### 3. [Análisis de Datos Zuber](https://github.com/Gambitami/Zuber-Data-Engineering-Analysis)
 * **Contexto:** Estudio sobre las preferencias de los pasajeros y el impacto de factores externos en la duración de los viajes.
 * **Metodología:** Análisis exploratorio de datos (EDA) y validación de hipótesis estadísticas sobre el clima.
 * **Tecnología:** Python (Pandas, Scipy), SQL.
 * **Impacto:** Optimización de la comprensión logística para servicios de transporte compartido.
 
-### 3. [Dashboard de Ventas - Análisis de Tendencias](https://github.com/Gambitami/Analisis_Ventas_Tableau)
+### 4. [Dashboard de Ventas - Análisis de Tendencias](https://github.com/Gambitami/Analisis_Ventas_Tableau)
 * [cite_start]**Contexto:** Implementación de una herramienta visual para el seguimiento de KPIs comerciales y tendencias de mercado[cite: 1, 86].
 * [cite_start]**Metodología:** Integración de fuentes de datos de ventas, creación de métricas de rendimiento y diseño de interfaz de usuario orientada a insights rápidos[cite: 15, 26, 88].
 * [cite_start]**Tecnología:** Tableau Desktop, Visualización Avanzada[cite: 3].
